@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ParkingSystem\\ParkingSystem.csproj": {}
+    "F:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ParkingSystem\\ParkingSystem.csproj": {}
   },
   "projects": {
-    "f:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ParkingSystem\\ParkingSystem.csproj": {
+    "F:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ParkingSystem\\ParkingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ParkingSystem\\ParkingSystem.csproj",
+        "projectUniqueName": "F:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ParkingSystem\\ParkingSystem.csproj",
         "projectName": "ParkingSystem",
-        "projectPath": "f:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ParkingSystem\\ParkingSystem.csproj",
+        "projectPath": "F:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ParkingSystem\\ParkingSystem.csproj",
         "packagesPath": "C:\\Users\\luizc\\.nuget\\packages\\",
-        "outputPath": "f:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ParkingSystem\\obj\\",
+        "outputPath": "F:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ParkingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
