@@ -1,0 +1,14 @@
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ParkingSystem\bin\Debug\net7.0\ParkingSystem.exe
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ParkingSystem\bin\Debug\net7.0\ParkingSystem.deps.json
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ParkingSystem\bin\Debug\net7.0\ParkingSystem.runtimeconfig.json
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ParkingSystem\bin\Debug\net7.0\ParkingSystem.dll
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ParkingSystem\bin\Debug\net7.0\ParkingSystem.pdb
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ParkingSystem\obj\Debug\net7.0\ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ParkingSystem\obj\Debug\net7.0\ParkingSystem.AssemblyInfoInputs.cache
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ParkingSystem\obj\Debug\net7.0\ParkingSystem.AssemblyInfo.cs
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ParkingSystem\obj\Debug\net7.0\ParkingSystem.csproj.CoreCompileInputs.cache
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ParkingSystem\obj\Debug\net7.0\ParkingSystem.dll
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ParkingSystem\obj\Debug\net7.0\refint\ParkingSystem.dll
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ParkingSystem\obj\Debug\net7.0\ParkingSystem.pdb
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ParkingSystem\obj\Debug\net7.0\ParkingSystem.genruntimeconfig.cache
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ParkingSystem\obj\Debug\net7.0\ref\ParkingSystem.dll
